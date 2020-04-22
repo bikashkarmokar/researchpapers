@@ -1,2 +1,2 @@
-# researchpapers
+# Research Papers
 All the research papers i have authored or coauthored are added here.
